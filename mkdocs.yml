@@ -1,0 +1,15 @@
+site_name: Event driven microservice using Kafka as event backbone
+repo_url: https://github.com/jbcodeforce/microprofile-event-driven-microservice-template
+nav:
+  - Introduction: index.md
+  - Compendium: compendium.md
+
+theme: 
+  name: material
+extra_css: ["extra.css"]
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
