@@ -24,6 +24,7 @@ public class HealthEndpointTest {
     @BeforeClass
     public static void oneTimeSetup() {
         String port = System.getProperty("liberty.test.port");
+        if (port == null) port = "9080"; 
         baseUrl = "http://localhost:" + port;
     }
     

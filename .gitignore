@@ -1,6 +1,7 @@
 /target/*
 !.keep
 /scripts/setenv.sh
+/site/
 
 
 ### STS ###
