@@ -6,7 +6,6 @@ import org.junit.Test;
 
 import ibm.gse.eda.app.domain.OrderEntity;
 import ibm.gse.eda.app.domain.OrderService;
-import ibm.gse.eda.app.infrastructure.events.EventEmitter;
 import ibm.gse.eda.app.infrastructure.events.OrderEvent;
 
 public class TestOrderCreation {

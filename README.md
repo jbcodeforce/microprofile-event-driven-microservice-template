@@ -37,7 +37,7 @@ Build and execute unit and integration tests:
 mvn clean package
 ```
 
-Build with docker and create a docker image: `docker build -t ibmgse/KafkaPlay .`
+Build with docker and create a docker image: `docker build -t ibmgse/eda-order-mgr .`
 
 ### Test
 
