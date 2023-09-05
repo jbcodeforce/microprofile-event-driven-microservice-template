@@ -20,7 +20,7 @@
     	<final.name>ed-starter-ms</final.name>
         <version.maven-failsafe-plugin>3.0.0-M4</version.maven-failsafe-plugin>
         <version.maven-surefire-plugin>3.0.0-M4</version.maven-surefire-plugin>
-        <kafka.version>2.6.0</kafka.version>
+        <kafka.version>2.6.3</kafka.version>
          <package.file>${project.build.directory}/${final.name}.zip</package.file>
     </properties>
     <dependencies>
